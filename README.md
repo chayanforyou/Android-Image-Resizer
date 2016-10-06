@@ -1,6 +1,6 @@
 # Android-Image-Resizer
 
-A simple yet powerful resizer for Android developers
+A simple but powerful resizer for Android developers
 --------------
 
 There is others very similar project <a href="https://code.google.com/p/9patch-resizer/">here</a> and <a href="https://github.com/asystat/Final-Android-Resizer">here</a> but i was not satisfied with those. So i modify <a href="https://github.com/asystat/Final-Android-Resizer">this</a> as i need.
